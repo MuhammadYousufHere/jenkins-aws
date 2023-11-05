@@ -1,0 +1,3 @@
+minikube => tool to run k8 locally
+install -> winget install minikube 
+then => add to PATH
